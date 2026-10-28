@@ -6,15 +6,6 @@
 
 </div>
 
-## Tentang Saya
-
-- 🔭 Sedang mengembangkan aplikasi web berbasis **Laravel**
-- 🌱 Terus belajar teknologi web baru
-- 💼 Fokus di **backend development** dengan PHP & Laravel
-- 📫 Cara menghubungi saya: **iqbalmu160@gmail.com**
-
-## Tech Stack
-
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
