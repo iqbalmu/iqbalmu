@@ -2,9 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=904E95&center=true&vCenter=true&width=600&lines=Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=904E95&center=true&vCenter=true&width=600&lines=Developer;System+Design;PHP+%7C+Laravel+%7C+JavaScript)](https://git.io/typing-svg)
 
 </div>
+
+## Tentang Saya
+
+- 👨‍💻 **Developer**
+- 📐 Sedang mendalami **system design** — arsitektur, scalability, dan pola desain yang baik
+- 📫 Kontak: [iqbalmu160@gmail.com](mailto:iqbalmu160@gmail.com)
 
 <div align="center">
 
