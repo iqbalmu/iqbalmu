@@ -32,16 +32,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbalmu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
-
-## Aktivitas Kontribusi
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmu&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 
 <div align="center">
 
