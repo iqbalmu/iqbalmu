@@ -1,20 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=Iqbal%20Muhakim&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=34">
-  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Iqbal%20Muhakim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34">
-</picture>
+```text
+iqbalmu@github:~$ whoami
+developer
+
+iqbalmu@github:~$ cat focus.md
+sedang mendalami system design
+arsitektur · scalability · pola desain yang baik
+
+iqbalmu@github:~$ cat contact.txt
+iqbalmu160@gmail.com
+```
+
+→ **[iqbalmu160@gmail.com](mailto:iqbalmu160@gmail.com)**
+
+---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Developer;System+Design;PHP+%7C+Laravel+%7C+JavaScript">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Developer;System+Design;PHP+%7C+Laravel+%7C+JavaScript">
-</picture>
-
-<br>
-
-📫 <a href="mailto:iqbalmu160@gmail.com">iqbalmu160@gmail.com</a>
-
-<br><br>
 
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
 </div>
+
+---
 
 ## Aktivitas
 
