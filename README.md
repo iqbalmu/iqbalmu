@@ -6,11 +6,13 @@
 
 </div>
 
-## Tentang Saya
+## 🧑‍💻 Tentang Saya
 
 - 👨‍💻 **Developer**
 - 📐 Sedang mendalami **system design** — arsitektur, scalability, dan pola desain yang baik
 - 📫 Kontak: [iqbalmu160@gmail.com](mailto:iqbalmu160@gmail.com)
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -24,12 +26,23 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## GitHub Stats
+## 🚀 Proyek
+
+| Proyek | Deskripsi | Bahasa |
+| --- | --- | --- |
+| [**xm-db**](https://github.com/iqbalmu/xm-db) | CLI sederhana untuk manajemen database | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**xm-relay**](https://github.com/iqbalmu/xm-relay) | — | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
+| [**catatim**](https://github.com/iqbalmu/catatim) | — | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+
+## 📊 GitHub Stats
 
 <div align="center">
 
