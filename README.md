@@ -1,56 +1,29 @@
-```text
-iqbalmu@github:~$ whoami
-developer
+<h2> Halo, saya Iqbal 👋 </h2>
 
-iqbalmu@github:~$ cat focus.md
-sedang mendalami system design
-arsitektur · scalability · pola desain yang baik
+<p>Saya seorang developer yang sedang mendalami <strong>system design</strong> — arsitektur, scalability, dan pola desain yang baik.</p>
 
-iqbalmu@github:~$ cat contact.txt
-iqbalmu160@gmail.com
+```python
+iqbal = {
+    "name": "Iqbal Muhakim",
+    "role": "developer",
+    "focus": ["system design", "arsitektur", "scalability", "pola desain"],
+    "stack": {
+        "languages": ["PHP", "JavaScript", "Go", "Rust", "Dart"],
+        "tools": ["Laravel", "Node.js", "Express", "React", "Prisma", "Vite", "Sass", "MySQL", "Git"],
+    },
+    "contact": "iqbalmu160@gmail.com",
+}
 ```
 
 → **[iqbalmu160@gmail.com](mailto:iqbalmu160@gmail.com)**
 
----
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## Aktivitas
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalmu/iqbalmu/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/iqbalmu/iqbalmu/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmu&hide_border=true&background=000000&stroke=000000&ring=000000&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border_radius=8" alt="GitHub Streak"/>
-
-<br>
-
-![Visitor](https://komarev.com/ghpvc/?username=iqbalmu&color=gray&style=flat-square&label=views)
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding-top: 15px; padding-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=iqbalmu&show_icons=true&count_private=true&hide_border=false&line_height=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&border_color=30363d&border_radius=8">
+    <img height="200" alt="github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iqbalmu&show_icons=true&count_private=true&hide_border=false&line_height=20&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&border_color=e5e5e5&border_radius=8">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqbalmu&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=30363d&border_radius=8">
+    <img height="200" alt="top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqbalmu&layout=compact&langs_count=8&title_color=000000&text_color=000000&bg_color=ffffff&border_color=e5e5e5&border_radius=8">
+  </picture>
 </div>
