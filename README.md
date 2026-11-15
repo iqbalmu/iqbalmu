@@ -1,14 +1,20 @@
-<h1 align="center">Iqbal Muhakim</h1>
-
-<p align="center">
-  Developer — sedang mendalami <strong>system design</strong>
-</p>
-
-<p align="center">
-  📫 <a href="mailto:iqbalmu160@gmail.com">iqbalmu160@gmail.com</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=Iqbal%20Muhakim&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=34">
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Iqbal%20Muhakim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34">
+</picture>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Developer;System+Design;PHP+%7C+Laravel+%7C+JavaScript">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Developer;System+Design;PHP+%7C+Laravel+%7C+JavaScript">
+</picture>
+
+<br>
+
+📫 <a href="mailto:iqbalmu160@gmail.com">iqbalmu160@gmail.com</a>
+
+<br><br>
 
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
@@ -28,16 +34,21 @@
 
 </div>
 
-## Proyek
-
-- **[xm-db](https://github.com/iqbalmu/xm-db)** — CLI sederhana untuk manajemen database
-- **[xm-relay](https://github.com/iqbalmu/xm-relay)**
-- **[catatim](https://github.com/iqbalmu/catatim)**
-
 ## Aktivitas
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalmu/iqbalmu/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/iqbalmu/iqbalmu/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmu&hide_border=true&background=000000&stroke=000000&ring=000000&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border_radius=8" alt="GitHub Streak"/>
+
+<br>
+
+![Visitor](https://komarev.com/ghpvc/?username=iqbalmu&color=gray&style=flat-square&label=views)
 
 </div>
