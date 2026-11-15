@@ -1,6 +1,8 @@
 <h2> Halo, saya Iqbal 👋 </h2>
 
-<p>Saya seorang developer yang sedang mendalami <strong>system design</strong> — arsitektur, scalability, dan pola desain yang baik.</p>
+<p>Halo! Saya developer yang membangun aplikasi dari dua sisi — backend dengan <strong>PHP/Laravel</strong> dan <strong>Node.js</strong>, frontend dengan <strong>React</strong> — dan sesekali menjajal bahasa lain seperti <strong>Go</strong>, <strong>Rust</strong>, serta <strong>Dart</strong> lewat proyek-proyek kecil yang saya taruh di sini: mulai dari CLI database manager sampai relay yang ditulis dengan Rust.</p>
+
+<p>Saat ini saya sedang mendalami <strong>system design</strong> — merancang arsitektur yang scalable dan menerapkan pola desain yang baik, agar aplikasi tetap sehat saat kebutuhan bertumbuh. Kalau ada yang ingin didiskusikan, atau sekadar menyapa, silakan hubungi saya lewat email di bawah ini.</p>
 
 ```python
 iqbal = {
