@@ -56,8 +56,8 @@ Hello there! I'm **Iqbal Muhakim**, a developer who enjoys understanding how sof
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqbalmu&theme=dark" />
-    <img height="180" alt="Iqbal's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqbalmu&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iqbalmu&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&ring_color=ffffff" />
+    <img height="180" alt="Iqbal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iqbalmu&show_icons=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=24292f&border_color=d0d7de&ring_color=24292f" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iqbalmu&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
@@ -67,7 +67,7 @@ Hello there! I'm **Iqbal Muhakim**, a developer who enjoys understanding how sof
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmu&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&custom_title=Iqbal's%20Contribution%20Graph" />
-    <img width="100%" alt="Iqbal's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmu&bg_color=ffffff&color=24292f&line=24292f&point=24292f&area=true&area_color=24292f&hide_border=false&custom_title=Iqbal's%20Contribution%20Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmu&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=8b949e&hide_border=false&custom_title=Iqbal's%20Contribution%20Graph" />
+    <img width="100%" alt="Iqbal's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmu&bg_color=ffffff&color=24292f&line=24292f&point=24292f&area=true&area_color=8b949e&hide_border=false&custom_title=Iqbal's%20Contribution%20Graph" />
   </picture>
 </p>
