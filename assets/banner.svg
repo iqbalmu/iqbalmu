@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Welcome to Iqbal's GitHub">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8adb5"/>
+      <stop offset="55%" stop-color="#d8dce2"/>
+      <stop offset="100%" stop-color="#f0f2f5"/>
+    </linearGradient>
+    <linearGradient id="hill-far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3f47"/>
+      <stop offset="100%" stop-color="#1b1e23"/>
+    </linearGradient>
+    <linearGradient id="hill-mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2329"/>
+      <stop offset="100%" stop-color="#0d0f12"/>
+    </linearGradient>
+    <linearGradient id="hill-near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121418"/>
+      <stop offset="100%" stop-color="#050608"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b8bec8"/>
+      <stop offset="60%" stop-color="#eef1f5"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1200" height="360" fill="url(#sky)"/>
+
+  <!-- Far hills -->
+  <path d="M0,255 Q180,205 360,240 T720,232 T1050,248 L1200,236 L1200,360 L0,360 Z" fill="url(#hill-far)"/>
+
+  <!-- Mid valley & hills -->
+  <path d="M0,268 Q160,210 340,248 Q490,282 630,262 Q820,235 1020,270 Q1120,285 1200,265 L1200,360 L0,360 Z" fill="url(#hill-mid)"/>
+
+  <!-- Winding river -->
+  <path d="M625,260 C655,272 605,288 645,305 C685,322 620,340 580,360 L660,360 C705,340 735,318 680,298 C638,283 678,270 645,260 Z" fill="url(#river)" opacity="0.92"/>
+
+  <!-- Foreground dark slopes -->
+  <path d="M0,285 Q240,250 470,305 Q555,326 600,360 L0,360 Z" fill="url(#hill-near)"/>
+  <path d="M685,360 Q760,318 930,295 Q1080,275 1200,298 L1200,360 Z" fill="url(#hill-near)"/>
+
+  <!-- Centered title -->
+  <text x="600" y="138" text-anchor="middle" fill="#1b1e23" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2">Welcome to Iqbal's GitHub</text>
+  <text x="600" y="178" text-anchor="middle" fill="#2c313a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24" font-weight="600" letter-spacing="2">&lt;/&gt;</text>
+</svg>

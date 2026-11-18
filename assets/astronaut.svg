@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" width="260" height="260" role="img" aria-label="Floating monochrome astronaut">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translate(0px, 0px) rotate(-6deg); }
+        50% { transform: translate(0px, -8px) rotate(-2deg); }
+      }
+      .astronaut {
+        transform-origin: 130px 130px;
+        animation: float 5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Deep space background -->
+  <rect width="260" height="260" rx="4" fill="#050608"/>
+
+  <!-- Stars -->
+  <g fill="#d0d7de">
+    <circle cx="28" cy="34" r="1.2" opacity="0.8"/>
+    <circle cx="72" cy="22" r="0.9" opacity="0.5"/>
+    <circle cx="195" cy="38" r="1.4" opacity="0.9"/>
+    <circle cx="232" cy="64" r="1" opacity="0.6"/>
+    <circle cx="44" cy="98" r="0.8" opacity="0.5"/>
+    <circle cx="215" cy="118" r="1.1" opacity="0.7"/>
+    <circle cx="30" cy="168" r="1.3" opacity="0.8"/>
+    <circle cx="84" cy="212" r="0.9" opacity="0.6"/>
+    <circle cx="176" cy="228" r="1.2" opacity="0.75"/>
+    <circle cx="236" cy="196" r="1.5" opacity="0.85"/>
+    <circle cx="142" cy="30" r="0.9" opacity="0.45"/>
+    <circle cx="58" cy="238" r="1.1" opacity="0.6"/>
+  </g>
+
+  <!-- Astronaut -->
+  <g class="astronaut" transform="rotate(-6 130 130)">
+    <!-- Backpack -->
+    <rect x="100" y="106" width="52" height="54" rx="10" fill="#8b949e"/>
+    <rect x="103" y="110" width="46" height="46" rx="8" fill="#6e7681"/>
+
+    <!-- Left arm raised -->
+    <path d="M108,116 C92,102 82,88 86,74 C89,67 98,69 99,76 C100,88 106,96 116,106 Z" fill="#e6edf3"/>
+    <circle cx="91" cy="73" r="6.5" fill="#c9d1d9"/>
+
+    <!-- Right arm reaching -->
+    <path d="M148,118 C164,112 178,104 186,94 C191,89 198,94 194,101 C185,114 170,124 152,130 Z" fill="#e6edf3"/>
+    <circle cx="191" cy="96" r="6.5" fill="#c9d1d9"/>
+
+    <!-- Left leg -->
+    <path d="M115,156 L104,194 C102,201 112,205 116,198 L128,162 Z" fill="#e6edf3"/>
+    <ellipse cx="108" cy="198" rx="8" ry="5" transform="rotate(-15 108 198)" fill="#8b949e"/>
+
+    <!-- Right leg bent -->
+    <path d="M135,156 L152,184 L144,204 C141,210 151,214 155,207 L166,184 C167,181 167,178 165,175 L147,154 Z" fill="#d0d7de"/>
+    <ellipse cx="149" cy="208" rx="8" ry="5" transform="rotate(10 149 208)" fill="#8b949e"/>
+
+    <!-- Torso -->
+    <rect x="109" y="108" width="42" height="52" rx="14" fill="#f0f6fc"/>
+    <!-- Chest control unit -->
+    <rect x="120" y="120" width="20" height="16" rx="3" fill="#b1bac4"/>
+    <circle cx="126" cy="128" r="2" fill="#30363d"/>
+    <circle cx="134" cy="128" r="2" fill="#30363d"/>
+
+    <!-- Helmet -->
+    <circle cx="130" cy="88" r="22" fill="#f0f6fc"/>
+    <!-- Visor -->
+    <ellipse cx="132" cy="88" rx="15" ry="12" fill="#161b22"/>
+    <path d="M122,82 Q129,78 137,81" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  </g>
+</svg>
